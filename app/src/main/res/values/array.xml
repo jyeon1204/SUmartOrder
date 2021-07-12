@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="major">
+        <item>정보통신공학</item>
+        <item>기계공학</item>
+        <item>화학공학과</item>
+    </string-array>
+    <string-array name="term">
+        <item>1학기</item>
+        <item>여름학기</item>
+        <item>2학기</item>
+        <item>계절학기</item>
+    </string-array>
+    <string-array name="graduateArea">
+        <item>일반대학원</item>
+    </string-array>
+    <string-array name="universityArea">
+        <item>교양및기타</item>
+        <item>전공</item>
+    </string-array>
+    <string-array name="year">
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+        <item>2026</item>
+    </string-array>
+    <string-array name="graduateMajor">
+        <item>교육학공통</item>
+        <item>교육학과</item>
+        <item>교육행정</item>
+        <item>교육철학및교육사</item>
+        <item>교육심리</item>
+        <item>유아교육</item>
+        <item>국어교육과</item>
+    </string-array>
+    <string-array name="universityRefinementMajor">
+        <item>군사학</item>
+        <item>교직이론</item>
+        <item>교직소양</item>
+        <item>청람비전</item>
+        <item>청람중점(리더십)</item>
+        <item>청람중점(인성)</item>
+    </string-array>
+    <string-array name="universityMajor">
+        <item>유아교육과</item>
+        <item>초등교육과</item>
+        <item>교육학과</item>
+        <item>수학교육과</item>
+        <item>윤리교육과</item>
+    </string-array>
+    <string-array name="rank">
+        <item>전체</item>
+    </string-array>
+    <string-array name="sumenucategory">
+        <item>면류-찌개-김밥</item>
+        <item>덮밥류-비빔밥</item>
+        <item>볶음밥-오므라이스-돈까스</item>
+    </string-array>
+    <string-array name="unmenucategory">
+        <item>The bab-fry</item>
+        <item>The Noodle</item>
+    </string-array>
+</resources>
